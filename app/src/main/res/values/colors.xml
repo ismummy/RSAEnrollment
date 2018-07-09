@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ff0000</color>
+    <color name="black">#000000</color>
+    <color name="transparent_white">#80FFFFFF</color>
+    <color name="transparent">#99000000</color>
+    <color name="primary">#ea5b31</color>
+    <color name="primary_dark">#e44925</color>
+    <color name="primary_light">#F8BBD0</color>
+    <color name="accent">#ea5b31</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+</resources>

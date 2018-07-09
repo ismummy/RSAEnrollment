@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RSAEnrollment</string>
+    <string name="Put_your_finger">Put your finger</string>
+    <string name="ERROR_NONE"></string>
+    <string name="ERROR_ARGUMENTS">ERROR : Invalid argument(s)</string>
+    <string name="ERROR_DOCANCELED">ERROR : Canceled</string>
+    <string name="ERROR_TIMEOUT_OVER">ERROR : Timeover</string>
+    <string name="ERROR_LOW_QUALITY">ERROR : The quality of finger is very low</string>
+    <string name="ERROR_FP_MISTAKEN">ERROR : fingerprints are mistaken</string>
+    <string name="ERROR_DUPLIED_FP">ERROR : This finger has been already enrolled</string>
+    <string name="ERROR_NEG_ACCESS">ERROR : The fingerprint database can not be accessed</string>
+    <string name="ERROR_NEG_FIND">ERROR : The fingerprint record can not be found</string>
+    <string name="ERROR_NEG_DELETE">ERROR : The fingerprint record can not be deleted</string>
+    <string name="ERROR_INITIALIZE">ERROR : The fingerprint engine is not initailized</string>
+    <string name="ERROR_DEFAULT">ERROR : (Not analyized)</string>
+    <string name="ERROR_OVERFLOW_RECORD">ERROR : The record number is overflow</string>
+    <string name="ERROR_DUPLIED_ID">ERROR : This ID has been already used</string>
+    <string name="ERROR_NEG_ADDNEW">ERROR : The new fingerprint record can not be added</string>
+    <string name="ERROR_NEG_CLEAR">ERROR:  : The fingerprint database can not be cleared</string>
+    <string name="ERROR_NONE_ACTIVITY">ERROR : The activity os not passed</string>
+    <string name="ERROR_NONE_CALLBACK">ERROR : The callback os not passed</string>
+    <string name="ERROR_NONE_FINGER">ERROR : The finger can not be detected on sensor</string>
+    <string name="ERROR_NONE_CAPIMAGE">ERROR : The fingerprint image can not be captured from sensor</string>
+    <string name="ERROR_NOT_CALIBRATED">ERROR : The fingerprint sensor is not calibrated</string>
+    <string name="ERROR_EMPTY_DADABASE">Empty Database</string>
+    <string name="ERROR_LICENSE_OVER">License Over</string>
+    <string name="ERROR_CANT_GENERATE">Can not generate.</string>
+    <string name="ERROR_NONE_DEVICE">ERROR : The device is not openned.</string>
+    <string name="ERROR_BAD_SENSOR">ERROR : This sensor is bad</string>
+    <string name="ERROR_VALIDATED_SENSOR">ERROR : This sensor is not supported</string>
+</resources>
